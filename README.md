@@ -1,4 +1,8 @@
 # Correlation and regression for data analysis
+
+# Name : P.Bharathraj
+# Ref  : 212223230031
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
